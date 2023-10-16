@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevHeris
-- 👀 I’m interested in Web Development
+- 👀 I’m a Software Developer
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach out to me on twitter via @InioluwaBadairo
 
