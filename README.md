@@ -1,18 +1,16 @@
-# 👋 Hey there! I'm Inioluwa Badairo, or you can call me DevHeris in the coding world.
+# 👋 Hey there! I'm Inioluwa Badairo, or you can call me Heris in the coding world.
 
 🚀 I'm a biochemistry student at Obafemi Awolowo University, balancing my love for science with a passion for coding.
 
-💻 As a software developer in the making, I'm diving into HTML, CSS, and currently exploring the wonders of Vanilla JavaScript for web development.
+💻 As a software developer in the making, I'm currently exploring Vanilla JavaScript for web development.
 
-⏰ **Punctuality is key for me**—I'm committed to delivering timely solutions in the coding universe.
+⏰ **Punctuality is key for me**—I'm committed to delivering timely solutions in the coding universe. In short - I'm a disciplined person. 
 
-📚 When I'm not decoding the mysteries of programming, I'm absorbed in **"The Pragmatic Programmer,"** gathering wisdom to evolve into a skilled and creative developer.
+📚 When I'm not Coding, I'm reading **"The Pragmatic Programmer,"** gathering wisdom to evolve into a skilled and creative developer.
 
 ✨ **Self-reflection guides me**—I'm always exploring ways to enhance my skills and push the boundaries of what I thought was possible.
 
-📖 I'm also a devoted reader, finding inspiration in both code and literature.
-
-Join me on this exciting journey of coding, creativity, and continuous improvement! 🌟
+📖 I'm also a devoted reader, finding inspiration in both code and welll...biochemistry school work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devheris) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inioluwa-badairo-a366632a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/InioluwaBadairo) 
