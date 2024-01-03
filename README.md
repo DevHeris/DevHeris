@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Inioluwa Badairo, or you can call me Heris in the coding world.
+# 👋 Hey there! I'm Inioluwa Badairo, or you can call me Heris. 
 
 🚀 I'm a biochemistry student at Obafemi Awolowo University, balancing my love for science with a passion for coding.
 
