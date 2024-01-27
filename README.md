@@ -10,7 +10,7 @@
 
 ✨ **Self-reflection guides me**—I'm always exploring ways to enhance my skills and push the boundaries of what I thought was possible.
 
-📖 I'm also a devoted reader, finding inspiration in both code and welll......biochemistry school work.
+📖 I'm also a devoted reader, finding inspiration in both code and welll....biochemistry school work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devheris) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inioluwa-badairo-a366632a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/InioluwaBadairo) 
