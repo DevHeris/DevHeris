@@ -23,7 +23,7 @@ Every project is a prophecy. Every repo is a reflection.
 ### 🔥 Current Focus
 - Frontend @ Markt — redefining Nigerian e-commerce from the inside out  
 - Building [soulcodedheris.vercel.app](https://soulcodedheris.vercel.app/) – my digital sanctuary  
-- Writing & reflecting on tech + purpose on [Substack](https://your-substack-link)
+- Writing & reflecting on tech + purpose on [Substack](https://substack.com/@soulcodedheris)
 
 ---
 
