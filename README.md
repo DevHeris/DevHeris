@@ -1,8 +1,34 @@
-# 👋 Hi, I'm Heris
+# 👋🏾 Hey, I'm Heris — Soul-Coded Developer 🍁
 
-🚀 I'm a student at Obafemi Awolowo University, passionate about science and web development.
+I disappeared for 4 months.
 
-📚 Currently learning **"Angular"** and taking coding challenges to improve every day.
+Not just from code — from the noise. From the pressure to build without soul.  
+In that silence, something cracked open.  
+I stopped chasing hype. I started listening — to God, to pain, to purpose, to the **tide of opportunity**.
 
-🔗 **Let’s Connect:**
-[Instagram](https://instagram.com/devheris) • [LinkedIn](https://www.linkedin.com/in/inioluwa-badairo-a366632a1) • [Twitter](https://twitter.com/InioluwaBadairo)
+Now I build like I’ve been rebuilt.  
+Every project is a prophecy. Every repo is a reflection.  
+**This isn’t just tech — it’s testimony.**
+
+---
+
+### 🧠 What I’m About
+- **Frontend Dev** (Next.js, Angular, Tailwind, and flow)
+- **Local-first builder** → crafting tools that empower real people, not just algorithms
+- **Adlerian mindset** → growth over ego, contribution over clout
+- **Psychology + Product** → I design with soul, not just specs
+
+---
+
+### 🔥 Current Focus
+- Frontend @ Markt — redefining Nigerian e-commerce from the inside out  
+- Building [soulcodedheris.vercel.app](https://soulcodedheris.vercel.app/) – my digital sanctuary  
+- Writing & reflecting on tech + purpose on [Substack](https://your-substack-link)
+
+---
+
+### 🧭 My Stack
+```ts
+Tech: Next.js, Angular, React, TypeScript  
+UI: Tailwind, Framer Motion, Figma  
+Mindset: Jim Rohn + Adler + Silence + Purpose
